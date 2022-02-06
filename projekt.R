@@ -1,10 +1,3 @@
-# ---------------------------------------------------------------------------- #
-# Biorąc pod uwagę możliwości mojej maszyny obliczeniowej, postanowiłam
-# pracować na znacznie mniejszej ilości danych, które "wyrapałam" ze strony
-# www.science.org. Projekt był wymagajacy i bardzo rozwijający, a poczynione
-# postępy prezentuję poniżej. 
-#                                                           Marta Bartkowiak
-# ---------------------------------------------------------------------------- #
 
 require(tm)
 require(plyr)
